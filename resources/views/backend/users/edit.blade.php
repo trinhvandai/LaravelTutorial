@@ -1,5 +1,5 @@
 @extends('master')
-@section('name', 'Edit a user')
+@section('name', 'Edit a user!!')
 @section('content')
     <div class="container col-md-6 col-md-offset-3">
         <div class="well well bs-component">
